@@ -2,7 +2,7 @@
 ## IMPLEMENTATION OF ENCRYPTION AND DECRYPTION
 
 ## AIM:
-## To implement encryption and decryption using C program.
+To implement encryption and decryption using C program.
 
 ## EQUIPMENTS REQUIRED:
 PC with Linux operating system
